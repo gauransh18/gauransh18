@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gauransh18
-- 👀 I’m interested in python, c, cpp, java, javascript, game development, digital sprites related stuff.
-- 🌱 I’m currently learning something new.
+- 👀 I’m interested in python, c, cpp, java, flutter, game development, digital sprites related stuff.
+- 🌱 I’m currently learning machine learning.
 - 📫 How to reach me ...
   - email: gauranshsharma.gs@gmail.com
 
