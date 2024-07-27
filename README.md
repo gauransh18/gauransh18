@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gauransh18&label=Profile%20views&color=0e75b6&style=flat" alt="gauransh18" /> </p>
 
-- 🌱 I’m currently learning **AWS**
+<!-- - 🌱 I’m currently learning to **** -->
 
 - 👨‍💻 Visit my website [https://gauranshsharma.com](https://gauranshsharma.com)
 
