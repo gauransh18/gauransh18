@@ -17,7 +17,7 @@ You can click the Preview link to take a look at your changes.
 
 - 👨‍💻 Visit my website [https://gauranshsharma.com](https://gauranshsharma.com)
 
-- 💬 Ask me about **Application Development, Cloud, Flutter**
+- 💬 Ask me about **Application Development, Cloud, Flutter, Python, Go**
 
 - 📫 How to reach me **gauransh@gauranshsharma.com**
 
