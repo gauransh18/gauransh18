@@ -9,7 +9,7 @@ gauransh18/gauransh18 is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 <h1 align="center">Hi 👋, I'm Gauransh Sharma</h1>
-<h3 align="center">Creative Developer</h3>
+<h3 align="center">Software Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gauransh18&label=Profile%20views&color=0e75b6&style=flat" alt="gauransh18" /> </p>
 
