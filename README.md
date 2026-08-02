@@ -47,7 +47,6 @@ I work on production AI systems, LLM pipelines, and the backends around them. Be
 - 🔥 **[Zenpuku-Ignitia](https://github.com/gauransh18/Zenpuku-Ignitia)** — Built for the IGNITIA hackathon. Flutter.
 - 📐 **[Flutter_screen_with_gridview](https://github.com/gauransh18/Flutter_screen_with_gridview)** — GridView layout in Flutter.
 - 🐣 **[flutter-basic-app-1](https://github.com/gauransh18/flutter-basic-app-1)** — One of the first ones.
-- 📄 **[tp](https://github.com/gauransh18/tp)** — Dart.
 - 🖼️ **[RandomImageGenerator_iOS](https://github.com/gauransh18/RandomImageGenerator_iOS)** — Swift, iOS.
 - ☀️ **[helloWeather-iOS](https://github.com/gauransh18/helloWeather-iOS)** — The weather app again, native this time. Swift.
 - 🔌 **[go-websockets](https://github.com/gauransh18/go-websockets)** — WebSockets in Go.
@@ -55,7 +54,6 @@ I work on production AI systems, LLM pipelines, and the backends around them. Be
 - 🧱 **[boozoowall](https://github.com/gauransh18/boozoowall)** — CSS.
 - 🌐 **[portfolio-js](https://github.com/gauransh18/portfolio-js)** — Earlier portfolio, plain HTML.
 - 📱 **[lefy-reactnative](https://github.com/gauransh18/lefy-reactnative)** — React Native.
-- 📋 **[lab-agile-planning](https://github.com/gauransh18/lab-agile-planning)** — Coursework.
 
 Mac apps, all free and open source → **[apps.gauranshsharma.com](https://apps.gauranshsharma.com)**
 
