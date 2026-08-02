@@ -16,32 +16,48 @@ I work on production AI systems, LLM pipelines, and the backends around them. Be
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square)
 
-## AI & backend
-
-- 🧠 **[darwinian-dialectics](https://github.com/gauransh18/darwinian-dialectics)** — Multi-model system that routes tasks to specialized experts (DeepSeek, Gemini, MiMo) with LangGraph. Self-correcting "Council of Experts" architecture and a modular graph factory.
-- 🔌 **[personal-mcp](https://github.com/gauransh18/personal-mcp)** — MCP server for my own tools and context.
-- 📝 **[commitai](https://github.com/gauransh18/commitai)** — Commit messages that read like someone wrote them. Go.
-- 🔎 **[rag-hume](https://github.com/gauransh18/rag-hume)** — RAG over the Hume AI voice API.
-
-## Flutter & mobile
-
-Where I started, in 2021. Around twenty apps since — some shipped, some built purely to learn a thing properly.
-
-- ♡ **[portfolio](https://github.com/gauransh18/portfolio)** — My portfolio site, built in Flutter for web.
-- 📔 **[diaryco](https://github.com/gauransh18/diaryco)** — A collaborative diary app.
-- 🔍 **[github_user_search_app](https://github.com/gauransh18/github_user_search_app)** — Search GitHub users, in Flutter.
-- 🌦️ **[helloWeather](https://github.com/gauransh18/helloWeather-Flutter)** — A weather app with a deliberately minimal UI.
-
-## Mac apps — the hobby
-
-Nights and weekends. Each one started as something that annoyed me. All free, all open source, no accounts, no telemetry.
+## My projects
 
 - 🎬 **[NotchPrompter](https://github.com/gauransh18/notchprompter)** — A teleprompter that lives in the Mac notch. Follows your voice with on-device speech, and stays out of your screen recording.
 - 🪺 **[Perch](https://github.com/gauransh18/perch)** — Your coding agents, in the notch. Live tool feed, approvals with a diff preview, what it cost, and a jump back to the exact terminal pane.
 - 🪟 **[Spacebar](https://github.com/gauransh18/spacebar)** — Every macOS desktop at a glance, with live thumbnails — including the Spaces you're not looking at.
+- 🧠 **[darwinian-dialectics](https://github.com/gauransh18/darwinian-dialectics)** — Multi-model system routing tasks to specialized experts (DeepSeek, Gemini, MiMo) with LangGraph. Self-correcting "Council of Experts" architecture, modular graph factory.
 - 🎹 **[Macbook Harmonium](https://github.com/gauransh18/Macbook-Harmonium---using-Lid-Angle-Sensor)** — Plays a harmonium from the MacBook lid angle sensor. No reason. It was there.
+- 🔌 **[personal-mcp](https://github.com/gauransh18/personal-mcp)** — MCP server for my own tools and context. Python.
+- 📝 **[commitai](https://github.com/gauransh18/commitai)** — Commit message generator. Go.
+- 🔥 **[roast-my-github](https://github.com/gauransh18/roast-my-github)** — Points an LLM at your GitHub profile. It does not go easy. TypeScript.
+- 💸 **[melobills](https://github.com/gauransh18/melobills)** — TypeScript.
+- ♡ **[portfolio](https://github.com/gauransh18/portfolio)** — My portfolio site, built in Flutter for web.
+- 🔎 **[rag-hume](https://github.com/gauransh18/rag-hume)** — RAG over the Hume AI voice API.
+- 🎙️ **[humeAI-RAG](https://github.com/gauransh18/humeAI-RAG)** — Earlier take on the same idea.
+- 🧪 **[Resilience-Lab](https://github.com/gauransh18/Resilience-Lab)** — Python.
+- 🐳 **[gitdockdays](https://github.com/gauransh18/gitdockdays)** — Git and Docker practice, Python.
+- 📔 **[diaryco](https://github.com/gauransh18/diaryco)** — A collaborative diary app. Flutter.
+- 🔍 **[github_user_search_app](https://github.com/gauransh18/github_user_search_app)** — Search GitHub users. Flutter.
+- 🌦️ **[helloWeather-Flutter](https://github.com/gauransh18/helloWeather-Flutter)** — A weather app with a deliberately minimal UI.
+- ❓ **[Quizbox-flutter-app](https://github.com/gauransh18/Quizbox-flutter-app)** — A simple quiz app in Flutter.
+- ✅ **[todo-flutter-hive](https://github.com/gauransh18/todo-flutter-hive)** — A todo list app in Flutter, using the Hive database.
+- 🐝 **[helloHive](https://github.com/gauransh18/helloHive)** — Basic CRUD against the Hive database.
+- 🔐 **[login_ui](https://github.com/gauransh18/login_ui)** — A login UI in Flutter.
+- 🪙 **[cryptoApp_ui](https://github.com/gauransh18/cryptoApp_ui)** — Simple UI for a crypto app. Flutter.
+- 🚀 **[App-Onboarding---Flutter](https://github.com/gauransh18/App-Onboarding---Flutter)** — Onboarding flow in Flutter.
+- 🏗️ **[flutter_MVC_example](https://github.com/gauransh18/flutter_MVC_example)** — MVC structure in Flutter.
+- 📶 **[internet-speed-test-Flutter](https://github.com/gauransh18/internet-speed-test-Flutter)** — Speed test app in Flutter.
+- 🎮 **[GRIDLOCK](https://github.com/gauransh18/GRIDLOCK)** — Dart.
+- 🔥 **[Zenpuku-Ignitia](https://github.com/gauransh18/Zenpuku-Ignitia)** — Built for the IGNITIA hackathon. Flutter.
+- 📐 **[Flutter_screen_with_gridview](https://github.com/gauransh18/Flutter_screen_with_gridview)** — GridView layout in Flutter.
+- 🐣 **[flutter-basic-app-1](https://github.com/gauransh18/flutter-basic-app-1)** — One of the first ones.
+- 📄 **[tp](https://github.com/gauransh18/tp)** — Dart.
+- 🖼️ **[RandomImageGenerator_iOS](https://github.com/gauransh18/RandomImageGenerator_iOS)** — Swift, iOS.
+- ☀️ **[helloWeather-iOS](https://github.com/gauransh18/helloWeather-iOS)** — The weather app again, native this time. Swift.
+- 🔌 **[go-websockets](https://github.com/gauransh18/go-websockets)** — WebSockets in Go.
+- ⌨️ **[fas-fas-typing](https://github.com/gauransh18/fas-fas-typing)** — Typing thing. CSS.
+- 🧱 **[boozoowall](https://github.com/gauransh18/boozoowall)** — CSS.
+- 🌐 **[portfolio-js](https://github.com/gauransh18/portfolio-js)** — Earlier portfolio, plain HTML.
+- 📱 **[lefy-reactnative](https://github.com/gauransh18/lefy-reactnative)** — React Native.
+- 📋 **[lab-agile-planning](https://github.com/gauransh18/lab-agile-planning)** — Coursework.
 
-All of them → **[apps.gauranshsharma.com](https://apps.gauranshsharma.com)**
+Mac apps, all free and open source → **[apps.gauranshsharma.com](https://apps.gauranshsharma.com)**
 
 ## Connect
 
@@ -53,21 +69,5 @@ Open to full-time or contract work.
 [![Instagram](https://img.shields.io/badge/-gauransh18__-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/gauransh18_)
 [![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:gauransh@gauranshsharma.com)
 [![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/gauransh18)
-
----
-
-### Philosophy
-
-> "Ship the fix, say plainly what it can't do, give it away." — I build for the annoyance first. If a feature can't work, the app says so instead of showing a button that lies.
-
-<details>
-<summary>How I build</summary>
-
-- Spike the risky API before committing a day to it — Spacebar started as a throwaway script proving Spaces could be enumerated, tagged, captured and switched, before any UI existed
-- Comments explain *why*, especially the non-obvious constraints
-- Mac side: Swift + SwiftUI + AppKit, menu-bar apps (`LSUIElement`), macOS 14+. No Electron, no accounts, no telemetry, no network unless the network *is* the point
-- The Mac apps are ad-hoc signed, so first launch needs right-click → Open. No Developer ID cert yet, and I'd rather say that than pretend
-
-</details>
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=gauransh18&label=Profile%20views&color=0e75b6&style=flat-square" alt="gauransh18" /></p>
