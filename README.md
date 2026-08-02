@@ -1,6 +1,6 @@
 # Hi, I'm Gauransh 👋
 
-💼 **Software engineer** | 🤖 **Production AI systems & LLM pipelines** | 📱 **Flutter since 2021** | 🔍 **Open to work**
+💼 **Software engineer** | 🤖 **Production AI systems & LLM pipelines** | 📱 **Mobile Apps** | 🔍 **Open to work**
 
 I work on production AI systems, LLM pipelines, and the backends around them. Before that, and still, a lot of Flutter. On weekends I build small Mac apps, because I like fixing things that annoy me.
 
