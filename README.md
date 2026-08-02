@@ -64,8 +64,8 @@ Open to full-time or contract work.
 [![Website](https://img.shields.io/badge/-gauranshsharma.com-FF5722?style=flat-square&logo=googlechrome&logoColor=white)](https://gauranshsharma.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square)](https://linkedin.com/in/gauransh18)
 [![Dribbble](https://img.shields.io/badge/-gauransh18-EA4C89?style=flat-square&logo=dribbble&logoColor=white)](https://dribbble.com/gauransh18)
-[![Instagram](https://img.shields.io/badge/-gauransh18__-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/gauransh18_)
 [![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:gauransh@gauranshsharma.com)
 [![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/gauransh18)
+[![twitter](https://x.com/gauransh18_)
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=gauransh18&label=Profile%20views&color=0e75b6&style=flat-square" alt="gauransh18" /></p>
