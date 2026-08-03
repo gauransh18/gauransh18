@@ -2,7 +2,7 @@
 
 💼 **Software engineer** | 🤖 **Production AI systems & LLM pipelines** | 📱 **Mobile Apps** | 🔍 **Open to work**
 
-I work on production AI systems, LLM pipelines, and the backends around them. Before that, and still, a lot of Flutter. On weekends I build small Mac apps, because I like fixing things that annoy me.
+I work on production AI systems, LLM pipelines, and the backends around them. Before that, and still, a lot of Flutter. On weekends I build things that run entirely on my own machine — most recently an AI that joins video calls with a face and a voice, and a few small Mac apps that fix things that annoy me.
 
 ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
@@ -19,6 +19,7 @@ I work on production AI systems, LLM pipelines, and the backends around them. Be
 
 ## My projects
 
+- 🤖 **[meet-agent](https://github.com/gauransh18/meet-agent)** — Tekki joins your Google Meet as its own participant, with a face and a voice. Send a link to a Telegram bot and it shows up, listens, and answers out loud. Ollama, whisper and Kokoro all run locally — nothing about the conversation leaves the machine.
 - 🎬 **[NotchPrompter](https://github.com/gauransh18/notchprompter)** — A teleprompter that lives in the Mac notch. Follows your voice with on-device speech, and stays out of your screen recording.
 - 🪺 **[Perch](https://github.com/gauransh18/perch)** — Your coding agents, in the notch. Live tool feed, approvals with a diff preview, what it cost, and a jump back to the exact terminal pane.
 - 🪟 **[Spacebar](https://github.com/gauransh18/spacebar)** — Every macOS desktop at a glance, with live thumbnails — including the Spaces you're not looking at.
