@@ -13,12 +13,15 @@ I work on production AI systems, LLM pipelines, and the backends around them. Be
 ![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
 ![Postgres](https://img.shields.io/badge/-Postgres-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Cloudflare](https://img.shields.io/badge/-Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![three.js](https://img.shields.io/badge/-three.js-000000?style=flat-square&logo=threedotjs&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square)
 ![Claude](https://img.shields.io/badge/-Claude-D97757?style=flat-square&logo=claude&logoColor=white)
 
 ## My projects
 
+- 🐟 **[Doodle Pond](https://github.com/gauransh18/doodle-pond)** — Draw a fish and release it into one pond the whole internet shares, then try to catch everyone else's. Keep a catch and it's gone from the pond for everybody. three.js on Cloudflare Pages and D1. Play it at **[doodlepond.pages.dev](https://doodlepond.pages.dev)**.
 - 🤖 **[meet-agent](https://github.com/gauransh18/meet-agent)** — Tekki joins your Google Meet as its own participant, with a face and a voice. Send a link to a Telegram bot and it shows up, listens, and answers out loud. Ollama, whisper and Kokoro all run locally — nothing about the conversation leaves the machine.
 - 🎬 **[NotchPrompter](https://github.com/gauransh18/notchprompter)** — A teleprompter that lives in the Mac notch. Follows your voice with on-device speech, and stays out of your screen recording.
 - 🪺 **[Perch](https://github.com/gauransh18/perch)** — Your coding agents, in the notch. Live tool feed, approvals with a diff preview, what it cost, and a jump back to the exact terminal pane.
