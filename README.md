@@ -1,78 +1,43 @@
-# Hi, I'm Gauransh 👋
+### Gauransh Sharma
 
-💼 **Software engineer** | 🤖 **Production AI systems & LLM pipelines** | 📱 **Mobile Apps** | 🔍 **Open to work**
+I build LLM backends for production apps, and the mobile clients that sit on top of them. Python, TypeScript, Swift, Flutter. On weekends I build Mac apps and small things that run on my own machine.
 
-I work on production AI systems, LLM pipelines, and the backends around them. Before that, and still, a lot of Flutter. On weekends I build things that run entirely on my own machine — most recently an AI that joins video calls with a face and a voice, and a few small Mac apps that fix things that annoy me.
+### Things I've built
 
-![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
-![Postgres](https://img.shields.io/badge/-Postgres-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Cloudflare](https://img.shields.io/badge/-Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
-![three.js](https://img.shields.io/badge/-three.js-000000?style=flat-square&logo=threedotjs&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square)
-![Claude](https://img.shields.io/badge/-Claude-D97757?style=flat-square&logo=claude&logoColor=white)
+**[braid](https://github.com/gauransh18/braid)** · multi-agent coding harness · TypeScript, Tauri
 
-## My projects
+Splits a goal into a task graph and gives each task to a coding agent (Claude Code, Codex, Gemini CLI or a NIM model) in its own git worktree. A task merges only if the tests pass, a reviewer agent approves, and the tests pass again on the merged tree. A merge that breaks the tree gets rolled back. Everything lands on an integration branch, and an interrupted run picks up where it stopped. CLI, live dashboard and a desktop app for macOS and Windows.
 
-- 🐟 **[Doodle Pond](https://github.com/gauransh18/doodle-pond)** — Draw a fish and release it into one pond the whole internet shares, then try to catch everyone else's. Keep a catch and it's gone from the pond for everybody. three.js on Cloudflare Pages and D1. Play it at **[doodlepond.pages.dev](https://doodlepond.pages.dev)**.
-- 🌷 **[Sound Garden](https://github.com/gauransh18/sound-garden)** — Plant flowers in a little garden bed and a breeze plays them as a tune. Every row is a note, so anything you plant is in tune, and the whole garden lives in the link: send it and they hear your song. three.js and Web Audio, no audio files. Play it at **[sound-garden.pages.dev](https://sound-garden.pages.dev)**.
-- 🧵 **[braid](https://github.com/gauransh18/braid)** — A multi-agent coding harness. It breaks a goal into a graph of tasks, runs each one with a coding agent (Claude Code, Codex, Gemini CLI or NVIDIA NIM) in its own git worktree, and merges only what passes your tests, a reviewer, and your tests again on the merged tree. Live dashboard, plus a desktop app for macOS and Windows. TypeScript.
-- 🤖 **[meet-agent](https://github.com/gauransh18/meet-agent)** — Tekki joins your Google Meet as its own participant, with a face and a voice. Send a link to a Telegram bot and it shows up, listens, and answers out loud. Ollama, whisper and Kokoro all run locally — nothing about the conversation leaves the machine.
-- 🎬 **[NotchPrompter](https://github.com/gauransh18/notchprompter)** — A teleprompter that lives in the Mac notch. Follows your voice with on-device speech, and stays out of your screen recording.
-- 🪺 **[Perch](https://github.com/gauransh18/perch)** — Your coding agents, in the notch. Live tool feed, approvals with a diff preview, what it cost, and a jump back to the exact terminal pane.
-- 🪟 **[Spacebar](https://github.com/gauransh18/spacebar)** — Every macOS desktop at a glance, with live thumbnails — including the Spaces you're not looking at.
-- 🧠 **[darwinian-dialectics](https://github.com/gauransh18/darwinian-dialectics)** — Multi-model system routing tasks to specialized experts (DeepSeek, Gemini, MiMo) with LangGraph. Self-correcting "Council of Experts" architecture, modular graph factory.
-- 🎹 **[Macbook Harmonium](https://github.com/gauransh18/Macbook-Harmonium---using-Lid-Angle-Sensor)** — Plays a harmonium from the MacBook lid angle sensor. No reason. It was there.
-- 🔌 **[personal-mcp](https://github.com/gauransh18/personal-mcp)** — MCP server for my own tools and context. Python.
-- 📝 **[commitai](https://github.com/gauransh18/commitai)** — Commit message generator. Go.
-- 🔥 **[roast-my-github](https://github.com/gauransh18/roast-my-github)** — Points an LLM at your GitHub profile. It does not go easy. TypeScript.
-- 💸 **[melobills](https://github.com/gauransh18/melobills)** — TypeScript.
-- ♡ **[portfolio](https://github.com/gauransh18/portfolio)** — My portfolio site, built in Flutter for web.
-- 🔎 **[rag-hume](https://github.com/gauransh18/rag-hume)** — RAG over the Hume AI voice API.
-- 🎙️ **[humeAI-RAG](https://github.com/gauransh18/humeAI-RAG)** — Earlier take on the same idea.
-- 🧪 **[Resilience-Lab](https://github.com/gauransh18/Resilience-Lab)** — Python.
-- 🐳 **[gitdockdays](https://github.com/gauransh18/gitdockdays)** — Git and Docker practice, Python.
-- 📔 **[diaryco](https://github.com/gauransh18/diaryco)** — A collaborative diary app. Flutter.
-- 🔍 **[github_user_search_app](https://github.com/gauransh18/github_user_search_app)** — Search GitHub users. Flutter.
-- 🌦️ **[helloWeather-Flutter](https://github.com/gauransh18/helloWeather-Flutter)** — A weather app with a deliberately minimal UI.
-- ❓ **[Quizbox-flutter-app](https://github.com/gauransh18/Quizbox-flutter-app)** — A simple quiz app in Flutter.
-- ✅ **[todo-flutter-hive](https://github.com/gauransh18/todo-flutter-hive)** — A todo list app in Flutter, using the Hive database.
-- 🐝 **[helloHive](https://github.com/gauransh18/helloHive)** — Basic CRUD against the Hive database.
-- 🔐 **[login_ui](https://github.com/gauransh18/login_ui)** — A login UI in Flutter.
-- 🪙 **[cryptoApp_ui](https://github.com/gauransh18/cryptoApp_ui)** — Simple UI for a crypto app. Flutter.
-- 🚀 **[App-Onboarding---Flutter](https://github.com/gauransh18/App-Onboarding---Flutter)** — Onboarding flow in Flutter.
-- 🏗️ **[flutter_MVC_example](https://github.com/gauransh18/flutter_MVC_example)** — MVC structure in Flutter.
-- 📶 **[internet-speed-test-Flutter](https://github.com/gauransh18/internet-speed-test-Flutter)** — Speed test app in Flutter.
-- 🎮 **[GRIDLOCK](https://github.com/gauransh18/GRIDLOCK)** — Dart.
-- 🔥 **[Zenpuku-Ignitia](https://github.com/gauransh18/Zenpuku-Ignitia)** — Built for the IGNITIA hackathon. Flutter.
-- 📐 **[Flutter_screen_with_gridview](https://github.com/gauransh18/Flutter_screen_with_gridview)** — GridView layout in Flutter.
-- 🐣 **[flutter-basic-app-1](https://github.com/gauransh18/flutter-basic-app-1)** — One of the first ones.
-- 🖼️ **[RandomImageGenerator_iOS](https://github.com/gauransh18/RandomImageGenerator_iOS)** — Swift, iOS.
-- ☀️ **[helloWeather-iOS](https://github.com/gauransh18/helloWeather-iOS)** — The weather app again, native this time. Swift.
-- 🔌 **[go-websockets](https://github.com/gauransh18/go-websockets)** — WebSockets in Go.
-- ⌨️ **[fas-fas-typing](https://github.com/gauransh18/fas-fas-typing)** — Typing thing. CSS.
-- 🧱 **[boozoowall](https://github.com/gauransh18/boozoowall)** — CSS.
-- 🌐 **[portfolio-js](https://github.com/gauransh18/portfolio-js)** — Earlier portfolio, plain HTML.
-- 📱 **[lefy-reactnative](https://github.com/gauransh18/lefy-reactnative)** — React Native.
+<img src="https://raw.githubusercontent.com/gauransh18/braid/main/docs/images/dashboard-running.png" width="720" alt="braid dashboard with a task graph mid-run">
 
-Mac apps, all free and open source → **[apps.gauranshsharma.com](https://apps.gauranshsharma.com)**
+**[meet-agent](https://github.com/gauransh18/meet-agent)** · an AI that joins your Google Meet · Playwright, WebRTC, Ollama, whisper.cpp, Kokoro
 
-## Connect
+Send a Meet link to a Telegram bot and Tekki joins as a participant with a face and a voice. Meet has no bot API, so it pretends to be the devices: `getUserMedia` is swapped inside the page for a canvas (video) and a WebAudio node (audio). Chrome won't hand decoded WebRTC audio back to WebAudio, so to hear the call the container records its own PulseAudio sink. All models run locally.
 
-Open to full-time or contract work.
+<img src="https://raw.githubusercontent.com/gauransh18/meet-agent/master/docs/board.gif" width="720" alt="Tekki drawing a diagram on a shared whiteboard during a call">
 
-[![Website](https://img.shields.io/badge/-gauranshsharma.com-FF5722?style=flat-square&logo=googlechrome&logoColor=white)](https://gauranshsharma.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square)](https://linkedin.com/in/gauransh18)
-[![Dribbble](https://img.shields.io/badge/-gauransh18-EA4C89?style=flat-square&logo=dribbble&logoColor=white)](https://dribbble.com/gauransh18)
-[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:gauransh@gauranshsharma.com)
-[![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/gauransh18)
-[![X](https://img.shields.io/badge/-gauransh18__-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/gauransh18_)
+**[Spacebar](https://github.com/gauransh18/spacebar)** · live thumbnails of every macOS Space · Swift
 
-<p align="left"><img src="https://komarev.com/ghpvc/?username=gauransh18&label=Profile%20views&color=0e75b6&style=flat-square" alt="gauransh18" /></p>
+macOS has no public API for this, so most people assume it can't be done. It uses three private CoreGraphics Services calls to list and switch Spaces. Off-screen windows are captured with ScreenCaptureKit using `onScreenWindowsOnly: false` and a desktop-independent window filter. Miss either one and you only get the Space you're on.
+
+**[Perch](https://github.com/gauransh18/perch)** · coding agents in the notch · Swift
+
+Shows every running Claude Code session in the notch, with a live tool feed and cost. You can approve tool calls from a diff preview with `⌘Y` / `⌘N`, and one click jumps back to the exact iTerm2, tmux or WezTerm pane the agent is running in.
+
+**[NotchPrompter](https://github.com/gauransh18/notchprompter)** · teleprompter under the camera · Swift
+
+Follows your voice with on-device speech recognition. A fuzzy matcher scores the last few spoken words against a look-ahead window, so ad-libs and skipped paragraphs don't throw it off. The panel uses `sharingType = .none`, so it stays out of screen recordings.
+
+**[Doodle Pond](https://github.com/gauransh18/doodle-pond)** · one shared pond for the whole internet · three.js, Cloudflare D1
+
+Draw a fish, release it, and catch other people's. If you keep a fish, it disappears from the pond for everyone. [Play it](https://doodlepond.pages.dev).
+
+More Mac apps at [apps.gauranshsharma.com](https://apps.gauranshsharma.com). Smaller things: [Sound Garden](https://github.com/gauransh18/sound-garden), [commitai](https://github.com/gauransh18/commitai), [personal-mcp](https://github.com/gauransh18/personal-mcp), [roast-my-github](https://github.com/gauransh18/roast-my-github), and a [pump organ](https://github.com/gauransh18/Macbook-Harmonium---using-Lid-Angle-Sensor) that uses the MacBook lid as bellows.
+
+### At work
+
+- Coaching agent on Bedrock (Claude) with tool calling and SSE streaming. Hybrid RAG on Pinecone (BM25 plus Titan embeddings) and Mem0 for memory across sessions. Shipped an MCP server so users can run the whole coaching app from inside Claude or ChatGPT.
+- Moved product scoring into a persisted batch pipeline so 500k+ products rank through an indexed lookup. It used to take 0.5 to 2s per item on every request.
+- LLM character DMs with structured outputs, ElevenLabs audiobook narration, and offline reading in Expo. The outbox replays queued actions exactly once on reconnect.
+
+[gauranshsharma.com](https://gauranshsharma.com) · [LinkedIn](https://linkedin.com/in/gauransh18) · [X](https://x.com/gauransh18_) · gauransh@gauranshsharma.com
